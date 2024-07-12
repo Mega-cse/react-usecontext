@@ -1,0 +1,10 @@
+
+/* styles.css or App.css */
+.card {
+  height: 100%; /* or specific height */
+}
+
+.card-img-top {
+  height: 200px; /* Set fixed height for image */
+  object-fit: cover; /* Ensure image covers the entire area */
+}
